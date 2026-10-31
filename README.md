@@ -60,6 +60,7 @@ s.close()
 
 ## Client:
 <img width="372" height="235" alt="Screenshot 2026-10-31 081909" src="https://github.com/user-attachments/assets/62837ef9-4347-4384-8d37-87342784c248" />
+
 ## Server:
 <img width="305" height="156" alt="Screenshot 2026-10-31 081924" src="https://github.com/user-attachments/assets/749919ac-41b6-435c-82eb-dc248c55e84c" />
 
